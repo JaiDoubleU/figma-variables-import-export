@@ -1,0 +1,255 @@
+{
+    "collections": [
+        {
+            "name": "_visualization-themes",
+            "modes": [
+                "Dark Default",
+                "Light Default",
+                "Light Deuteranopia",
+                "Dark Deuteranopia",
+                "Dark Protanopia",
+                "Light Protanopia",
+                "Light Tritanopia",
+                "Dark Tritanopia"
+            ],
+            "variables": {
+                "charts": {
+                    "color 01": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#719fd1",
+                            "Light Default": "#2b6cb0",
+                            "Light Deuteranopia": "#3e86d0",
+                            "Dark Deuteranopia": "#5b93d7",
+                            "Dark Protanopia": "#5a90d2",
+                            "Light Protanopia": "#3c85ca",
+                            "Light Tritanopia": "#2a8f9b",
+                            "Dark Tritanopia": "#66a5d9"
+                        }
+                    },
+                    "color 02": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#56b8b7",
+                            "Light Default": "#297f7d",
+                            "Light Deuteranopia": "#33bfc1",
+                            "Dark Deuteranopia": "#70c6c5",
+                            "Dark Protanopia": "#5ec7c6",
+                            "Light Protanopia": "#2f9090",
+                            "Light Tritanopia": "#3c88b7",
+                            "Dark Tritanopia": "#7baee0"
+                        }
+                    },
+                    "color 03": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#64b861",
+                            "Light Default": "#31842e",
+                            "Light Deuteranopia": "#c7c74b",
+                            "Dark Deuteranopia": "#00a57b",
+                            "Dark Protanopia": "#5fbf5c",
+                            "Light Protanopia": "#7ea736",
+                            "Light Tritanopia": "#b98c45",
+                            "Dark Tritanopia": "#5cae6c"
+                        }
+                    },
+                    "color 04": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#cea24b",
+                            "Light Default": "#956d1d",
+                            "Light Deuteranopia": "#d8a84c",
+                            "Dark Deuteranopia": "#e2bb6f",
+                            "Dark Protanopia": "#d4b062",
+                            "Light Protanopia": "#a47a2f",
+                            "Light Tritanopia": "#a07b38",
+                            "Dark Tritanopia": "#d8a784"
+                        }
+                    },
+                    "color 05": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#dc8f5b",
+                            "Light Default": "#b7581a",
+                            "Light Deuteranopia": "#e47b3c",
+                            "Dark Deuteranopia": "#eaa26f",
+                            "Dark Protanopia": "#dd9b5f",
+                            "Light Protanopia": "#bf6a30",
+                            "Light Tritanopia": "#b67142",
+                            "Dark Tritanopia": "#e1a886"
+                        }
+                    },
+                    "color 06": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#da6767",
+                            "Light Default": "#c53030",
+                            "Light Deuteranopia": "#ce6c9e",
+                            "Dark Deuteranopia": "#a37bbc",
+                            "Dark Protanopia": "#c9855e",
+                            "Light Protanopia": "#cb7339",
+                            "Light Tritanopia": "#c8445d",
+                            "Dark Tritanopia": "#b6738c"
+                        }
+                    },
+                    "color 07": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#d180af",
+                            "Light Default": "#b83280",
+                            "Light Deuteranopia": "#e194b0",
+                            "Dark Deuteranopia": "#8a8cc7",
+                            "Dark Protanopia": "#ae7aa8",
+                            "Light Protanopia": "#b65c8e",
+                            "Light Tritanopia": "#b84666",
+                            "Dark Tritanopia": "#9b7b9a"
+                        }
+                    },
+                    "color 08": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#ac9bd4",
+                            "Light Default": "#6b46c1",
+                            "Light Deuteranopia": "#b8a0e0",
+                            "Dark Deuteranopia": "#8d81ce",
+                            "Dark Protanopia": "#8f8ad7",
+                            "Light Protanopia": "#7e5ebf",
+                            "Light Tritanopia": "#7453ad",
+                            "Dark Tritanopia": "#b8a6e2"
+                        }
+                    },
+                    "color 09": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#5bb4be",
+                            "Light Default": "#2a7f89",
+                            "Light Deuteranopia": "#2ea8a5",
+                            "Dark Deuteranopia": "#70c4d0",
+                            "Dark Protanopia": "#69b7c0",
+                            "Light Protanopia": "#3c9199",
+                            "Light Tritanopia": "#3f82b8",
+                            "Dark Tritanopia": "#7faee0"
+                        }
+                    },
+                    "color 10": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#9ab946",
+                            "Light Default": "#607623",
+                            "Light Deuteranopia": "#e2d842",
+                            "Dark Deuteranopia": "#b7c45e",
+                            "Dark Protanopia": "#a5c934",
+                            "Light Protanopia": "#7f8f28",
+                            "Light Tritanopia": "#5e8f50",
+                            "Dark Tritanopia": "#93b572"
+                        }
+                    },
+                    "color 11": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#e18f33",
+                            "Light Default": "#9f5c0e",
+                            "Light Deuteranopia": "#d48b32",
+                            "Dark Deuteranopia": "#ca8f48",
+                            "Dark Protanopia": "#c3a13b",
+                            "Light Protanopia": "#a16a24",
+                            "Light Tritanopia": "#9d6a3e",
+                            "Dark Tritanopia": "#c9a078"
+                        }
+                    },
+                    "color 12": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#e199be",
+                            "Light Default": "#d53f8c",
+                            "Light Deuteranopia": "#d98c90",
+                            "Dark Deuteranopia": "#b393c3",
+                            "Dark Protanopia": "#a985b5",
+                            "Light Protanopia": "#bb699d",
+                            "Light Tritanopia": "#c45f8a",
+                            "Dark Tritanopia": "#bfa3ca"
+                        }
+                    },
+                    "color 13": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#e0d5f6",
+                            "Light Default": "#9f7aea",
+                            "Light Deuteranopia": "#c9a5ef",
+                            "Dark Deuteranopia": "#bab1e2",
+                            "Dark Protanopia": "#c1c0ea",
+                            "Light Protanopia": "#ad8fed",
+                            "Light Tritanopia": "#8e6dc5",
+                            "Dark Tritanopia": "#cbc2ef"
+                        }
+                    },
+                    "color 14": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#b1b7e7",
+                            "Light Default": "#5a67d8",
+                            "Light Deuteranopia": "#9ec06e",
+                            "Dark Deuteranopia": "#8fa6de",
+                            "Dark Protanopia": "#a2afe6",
+                            "Light Protanopia": "#6f7fd1",
+                            "Light Tritanopia": "#5e8dbc",
+                            "Dark Tritanopia": "#a9c5e9"
+                        }
+                    },
+                    "color 15": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#eab5b3",
+                            "Light Default": "#dd5e5a",
+                            "Light Deuteranopia": "#e9bfa6",
+                            "Dark Deuteranopia": "#d7c4a0",
+                            "Dark Protanopia": "#e1c4a5",
+                            "Light Protanopia": "#de7a64",
+                            "Light Tritanopia": "#d8887d",
+                            "Dark Tritanopia": "#e7d0c5"
+                        }
+                    },
+                    "color 16": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#d1e784",
+                            "Light Default": "#b7e221",
+                            "Light Deuteranopia": "#f0accc",
+                            "Dark Deuteranopia": "#c9df7c",
+                            "Dark Protanopia": "#bde489",
+                            "Light Protanopia": "#9cd540",
+                            "Light Tritanopia": "#a68ed8",
+                            "Dark Tritanopia": "#c2b3e8"
+                        }
+                    },
+                    "color 17": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#71d187",
+                            "Light Default": "#3fb02b",
+                            "Light Deuteranopia": "#e18684",
+                            "Dark Deuteranopia": "#5bd5b6",
+                            "Dark Protanopia": "#5ad2ba",
+                            "Light Protanopia": "#3ed091",
+                            "Light Tritanopia": "#2a9b37",
+                            "Dark Tritanopia": "#66d994"
+                        }
+                    },
+                    "color 18": {
+                        "type": "color",
+                        "values": {
+                            "Dark Default": "#bc71d1",
+                            "Light Default": "#9a2bb0",
+                            "Light Deuteranopia": "#8a56c9",
+                            "Dark Deuteranopia": "#6d5fd6",
+                            "Dark Protanopia": "#6d5bd2",
+                            "Light Protanopia": "#823ed0",
+                            "Light Tritanopia": "#3e2a90",
+                            "Dark Tritanopia": "#9c69db"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
